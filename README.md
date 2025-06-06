@@ -2,7 +2,6 @@
 <h3 align="center">A passionate FullStack Web developer</h3>
 
 
-- 📫 How to reach me **bernalesj28@gmail.com**
 
 
 <div align="center">
