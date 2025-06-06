@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋I'm Jayrald</h1>
 <h3 align="center">A passionate FullStack Web developer</h3>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center">
+<div align="center style="margin: 20px 0;"">
   <a href="https://www.linkedin.com/in/jayrald-bernales-19a8bb346/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -40,7 +40,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center style="margin: 20px 0;"">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayraldbernales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jayraldbernales&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
