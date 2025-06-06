@@ -1,6 +1,9 @@
 <h1 align="center">Hey 👋I'm Jayrald</h1>
+<h3 align="center">A passionate FullStack Web developer</h3>
 
-###
+
+- 📫 How to reach me **bernalesj28@gmail.com**
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
