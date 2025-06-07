@@ -1,8 +1,5 @@
-![Header](./header.png)
+![Header](./github-header-image.png)
 
-
-<h1 align="center">Hey 👋I'm Jayrald</h1>
-<h3 align="center">A passionate Web developer</h3>
 
 <div align="center"  style="margin: 20px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
