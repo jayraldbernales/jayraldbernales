@@ -19,16 +19,22 @@ Computer Science student at Bohol Island State University | Building full-stack 
 
 ![Contribution Graph](https://raw.githubusercontent.com/jayraldbernales/jayraldbernales/output/pacman-contribution-graph-dark.svg)
 
-### 📫 Professional Connections
+### 📫 Get in Touch
 
-<div align="center" style="margin-top: 20px;">
+<div align="center"  style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/jayrald-bernales-19a8bb346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:bernalesj28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+  <a href="https://www.facebook.com/jayrald.bernales.3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/jayraalddd/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://t.me/JayraldBernales" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:bernalesj28@gmail.com " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
