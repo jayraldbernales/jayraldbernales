@@ -1,6 +1,5 @@
 # Hi there, I'm Jayrald Bernales 👋
 
-![Header](./github-header-image.png)
 
 ## Full-Stack Developer | Tech Enthusiast
 
@@ -8,7 +7,7 @@ I'm passionate about building modern web applications with clean, efficient code
 
 ### 🛠️ Tech Stack
 
-<div align="center" style="margin: 20px 0;">
+<div align="left" style="margin: 20px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" title="Laravel" />
@@ -38,7 +37,7 @@ I'm passionate about building modern web applications with clean, efficient code
 
 ### 📫 Let's Connect
 
-<div align="center" style="margin: 20px 0;">
+<div align="left" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/jayrald-bernales-19a8bb346/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
