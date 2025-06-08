@@ -1,5 +1,3 @@
-# Jayrald Bernales
-
 ![Header Image](./github-header-image.png)
 
 ## Full-Stack Web Developer
