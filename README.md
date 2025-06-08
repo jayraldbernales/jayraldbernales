@@ -1,50 +1,36 @@
-# Hi there, I'm Jayrald Bernales 👋
+# Jayrald Bernales
 
+![Header Image](./github-header-image.png)
 
-## Full-Stack Developer | Tech Enthusiast
+## Full-Stack Web Developer
 
-I'm passionate about building modern web applications with clean, efficient code. My expertise spans across frontend and backend technologies, allowing me to deliver complete solutions.
+Passionate about crafting efficient, scalable web applications with modern technologies. I bridge the gap between design and technical implementation to deliver seamless user experiences.
 
-### 🛠️ Tech Stack
+### 🚀 Core Technologies
 
-<div align="left" style="margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" title="Laravel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" title="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=react,laravel,ts,nodejs,tailwind,bootstrap,js,mysql" alt="Tech Stack" height="40" />
 </div>
 
-### 📊 GitHub Stats
+### 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayraldbernales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jayraldbernales&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=jayraldbernales&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayraldbernales&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayraldbernales&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ![Contribution Graph](https://raw.githubusercontent.com/jayraldbernales/jayraldbernales/output/pacman-contribution-graph-dark.svg)
 
-### 📫 Let's Connect
+### 📫 Professional Connections
 
-<div align="left" style="margin: 20px 0;">
+<div align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/jayrald-bernales-19a8bb346/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   <a href="mailto:bernalesj28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
   <a href="https://t.me/JayraldBernales" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
   </a>
 </div>
