@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer
 
-Passionate about crafting efficient, scalable web applications with modern technologies. I bridge the gap between design and technical implementation to deliver seamless user experiences.
+Computer Science student at Bohol Island State University | Building full-stack development skills | Always learning, always building
 
 ### 🚀 Tech Stack
 
