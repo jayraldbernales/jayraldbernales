@@ -7,7 +7,7 @@ Passionate about crafting efficient, scalable web applications with modern techn
 ### 🚀 Tech Stack
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=react,laravel,ts,nodejs,tailwind,bootstrap,js,mysql" alt="Tech Stack" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,laravel,ts,nodejs,tailwind,bootstrap,js,mysql" alt="Tech Stack" height="40" />
 </div>
 
 ### 📈 Development Activity
