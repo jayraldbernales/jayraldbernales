@@ -4,7 +4,7 @@
 
 Passionate about crafting efficient, scalable web applications with modern technologies. I bridge the gap between design and technical implementation to deliver seamless user experiences.
 
-### 🚀 Core Technologies
+### 🚀 Tech Stack
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=react,laravel,ts,nodejs,tailwind,bootstrap,js,mysql" alt="Tech Stack" height="40" />
