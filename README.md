@@ -6,26 +6,16 @@
 
 Computer Science student at Bohol Island State University | Building full-stack development skills | Always learning, always building
 
-###
+<h3 align="left">Language and tools</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="center" style="margin: 20px 0;">
+<div align="left" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=html,css,react,laravel,ts,nodejs,tailwind,bootstrap,js,mysql" alt="Tech Stack" height="40" />
 </div>
 
-### 📈 Stats
+### Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=true" height="165" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayraldbernales&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
@@ -33,7 +23,7 @@ Computer Science student at Bohol Island State University | Building full-stack 
 
 ### 📫 Get in Touch
 
-<div align="center"  style="margin: 20px 0;">
+<div align="left"  style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/jayrald-bernales-19a8bb346/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
