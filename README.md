@@ -1,19 +1,31 @@
-![Header Image](./github-header-image.png)
+## Hello, I'm Jayrald 👋
+
+![Header Image](./header.png)
 
 ## Full-Stack Web Developer
 
 Computer Science student at Bohol Island State University | Building full-stack development skills | Always learning, always building
 
-### 🚀 Tech Stack
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=html,css,react,laravel,ts,nodejs,tailwind,bootstrap,js,mysql" alt="Tech Stack" height="40" />
 </div>
 
-### 📈 Development Activity
+### 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayraldbernales&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayraldbernales&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
