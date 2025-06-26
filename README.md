@@ -48,7 +48,7 @@ Computer Science student at Bohol Island State University | Building full-stack 
 ### Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jayraldbernales&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jayraldbernales&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayraldbernales&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
