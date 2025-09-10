@@ -1,4 +1,4 @@
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayraldbernales)
 ![Header Image](./header.png)
 
 ## Full-Stack Web Developer
