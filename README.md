@@ -1,4 +1,3 @@
-## Hello, I'm Jayrald 👋
 
 ![Header Image](./header.png)
 
