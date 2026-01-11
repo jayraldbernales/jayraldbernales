@@ -46,8 +46,7 @@ Computer Science student at Bohol Island State University | Building full-stack 
 ### Stats
 
 <div align="center">
-  <img src="https://your-stats.vercel.app/api?username=jayraldbernales&theme=dark" />
-  <img src="https://your-stats.vercel.app/api/top-langs?username=jayraldbernales&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayraldbernales" />
 </div>
 
 
