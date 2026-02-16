@@ -42,7 +42,6 @@ Computer Science student at Bohol Island State University | Building full-stack 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
 ### Stats
 
 <div align="center">
