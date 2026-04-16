@@ -1,6 +1,6 @@
 ![Header Image](./header.png)
 
-## Full-Stack Web Developer
+## Full-Stack Developer
 
 Computer Science student at Bohol Island State University | Building full-stack development skills | Always learning, always building
 
